@@ -1,0 +1,75 @@
+Part 1: Short answers
+
+1. Analyse and explain the key principles and some functions and features of databases.
+
+2. Analyse and explain each of the following database objects, including:
+a) a definition
+b) the different types
+c) its functions and features.
+
+Database object 	|Definition	|Different types	|Functions	|Features	|Data types
+---------------------------------------------------------------------------------------------
+Data structures		|			|					|			|			|
+Identifiers			|			|					|			|			|
+Metadata			|			|					|			|			|
+
+3. Analyse and explain data modelling:
+a) What is data modelling?
+b) Outline the following types of data models and explain the purpose of each.
+
+Data model type	|Outline	|Purpose
+--------------------------------------------
+Conceptual		|			|
+Logical			|			|
+Physical		|			|
+
+4. Analyse and explain the key principles of some common types of data modelling structures/techniques, as well as the notation that can be used to create a data model.
+  
+5. Analyse and explain the data analysis phase of designing a relational database, including how this process is used to determine and design the data types, data structures, queries and reports.
+  
+6. At both the logical and physical phase of designing a relational database, explain how each of the following objects are designed and represented.
+
+				|Logical phase	|Physical phase
+------------------------------------------------
+Data types		|				|
+Data structures	|				|
+Queries			|				|
+Screens			|				|
+Reports			|				|
+
+7. Analyse and explain the process of normalisation when designing a relational database and how you would identify data redundancy.
+  
+8. Analyse and explain database management systems (DBMS):
+a) What are the key principles of DBMS?
+b) Why would you use a DBMS?
+c) How is a DBMS used during the design phase?
+  
+9. Analyse and explain the term ‘scalability’ in reference to a database.
+a) What does it mean?
+b) Outline some common types of database scalability.
+c) What are the benefits of database scalability?
+ 
+10. Analyse and explain data integrity:
+a) What is it?
+b) Why should it be included in a database design?
+c) How could you implement it in a database?
+  
+11. Analyse and explain the client-server model, including the:
+a) functions of the client and server
+b) SQL client environment
+c) SQL server architecture.
+ 
+12. Analyse and explain encryption and authentication for databases.
+a) What are the key principles of encryption and authentication?
+b) How can they be implemented in a database using its security features?
+ 
+13. Evaluate the following programming concepts and explain how they apply to designing and creating queries:
+Programming concept	|Summary	|Application to query design
+------------------------------------------------------------------
+Algorithms			|			|
+Operators, including arithmetical, comparison and Boolean
+Order of operation	|			|
+Functions			|			|
+Variables			|			|
+
+14. Analyse the factors that you need to consider when designing queries and explain why they need to be considered.
